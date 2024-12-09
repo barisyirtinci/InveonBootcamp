@@ -1,0 +1,14 @@
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\bin\Debug\net8.0\AsynchronousMethod.exe
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\bin\Debug\net8.0\AsynchronousMethod.deps.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\bin\Debug\net8.0\AsynchronousMethod.runtimeconfig.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\bin\Debug\net8.0\AsynchronousMethod.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\bin\Debug\net8.0\AsynchronousMethod.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.AssemblyInfoInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.AssemblyInfo.cs
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.csproj.CoreCompileInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\refint\AsynchronousMethod.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\AsynchronousMethod.genruntimeconfig.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\AsynchronousProgramming\AsynchronousMethod\obj\Debug\net8.0\ref\AsynchronousMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\bin\Debug\net8.0\LSP.exe
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\bin\Debug\net8.0\LSP.deps.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\bin\Debug\net8.0\LSP.runtimeconfig.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\bin\Debug\net8.0\LSP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\bin\Debug\net8.0\LSP.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.AssemblyInfoInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.AssemblyInfo.cs
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\refint\LSP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\LSP.genruntimeconfig.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\LSP\obj\Debug\net8.0\ref\LSP.dll

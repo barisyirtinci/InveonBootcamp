@@ -1,0 +1,14 @@
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\bin\Debug\net8.0\SRP.exe
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\bin\Debug\net8.0\SRP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\bin\Debug\net8.0\SRP.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\SRP\obj\Debug\net8.0\ref\SRP.dll

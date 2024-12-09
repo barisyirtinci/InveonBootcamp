@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WIcZGDtM5c2gQKXPvsshaAVMKtdRUUuCD/PnhbmMFhQ=",
+  "Source": "EndpointNaming",
+  "BasePath": "_content/EndpointNaming",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

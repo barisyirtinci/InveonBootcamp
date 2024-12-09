@@ -1,0 +1,14 @@
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\bin\Debug\net8.0\ISP.exe
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\bin\Debug\net8.0\ISP.deps.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\bin\Debug\net8.0\ISP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\bin\Debug\net8.0\ISP.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\refint\ISP.dll
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.pdb
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+C:\Users\baris.yirtinci\Desktop\odev\git\InveonBootcamp\SolidPrinciples\ISP\obj\Debug\net8.0\ref\ISP.dll
